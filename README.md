@@ -4,11 +4,6 @@
 
 A short review paper (IEEE conference format) that combines ten recent cybersecurity studies into one overview.
 
-**Author:** Md. Adnun Ahemed Methun
-**Affiliation:** Department of Computer Science and Engineering, Northern University of Business and Technology Khulna, Bangladesh
-**Course:** Technical Writing and Presentation (CSE 3200), Section 6D
-**Contact:** adnunahemed@gmail.com
-
 ---
 
 ## About the paper
@@ -23,17 +18,6 @@ Cybersecurity is no longer only an IT problem. This paper reviews ten studies an
 | Organizational and economic factors | Business security challenges; economic impact (Norsk Hydro case); global vulnerability |
 
 **Main conclusion:** no single tool or law is enough. Resilient protection needs sound laws, AI with human oversight, trained people, and continuous improvement.
-
-## Repository contents
-
-| File | Description |
-|---|---|
-| `conference_101719.pdf` | The compiled paper (4 pages) |
-| `conference_101719.tex` | LaTeX source of the paper |
-| `IEEEtran.cls` | IEEE conference class file |
-| `fig1.png` | Figure 1 (thematic framework) |
-| `Review_Paper_Presentation.pptx` | Presentation slides (15 slides) |
-| `Presentation_Speech.pdf` | Speech script for the presentation (about 9 minutes) |
 
 ## How to build the PDF
 
@@ -59,12 +43,6 @@ The paper synthesizes the ten studies listed in its reference section, with link
 - Publication years for some sources are not confirmed.
 - Reference [2] currently has a file name instead of a full link.
 - Part of this work, including drafting and formatting, was prepared with the help of an AI assistant (Claude by Anthropic). Please verify key claims against the original papers before citing.
-
-## Citation
-
-If you use this work, please credit it as:
-
-> M. A. A. Methun, "Cybersecurity in an Intelligent and Connected World: A Review of Legal, Technical, Organizational, and Economic Perspectives," Northern University of Business and Technology Khulna, 2026.
 
 ## License
 
