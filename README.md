@@ -43,7 +43,3 @@ The paper synthesizes the ten studies listed in its reference section, with link
 - Publication years for some sources are not confirmed.
 - Reference [2] currently has a file name instead of a full link.
 - Part of this work, including drafting and formatting, was prepared with the help of an AI assistant (Claude by Anthropic). Please verify key claims against the original papers before citing.
-
-## License
-
-No license has been chosen yet. Add a `LICENSE` file (for example, CC BY 4.0 for the paper) if you want others to reuse it.
